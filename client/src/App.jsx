@@ -16,6 +16,7 @@ export default function App() {
       <h1>MedTech AI (MVP)</h1>
       <p>Backend status: <b>{health}</b></p>
       <p><a href="/predict">Go to Predict Test Page</a></p>
+      <p><a href="/signup">Signup</a> | <a href="/login">Login</a> | <a href="/dashboard">Dashboard</a></p>
     </div>
   );
 }
